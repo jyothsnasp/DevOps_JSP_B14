@@ -1,6 +1,0 @@
-
-goog morning 
-I am using the vi editor to make changes to this file
-
-I will push this to GH
-Check if this msg diaplays on the local machine
